@@ -24,3 +24,8 @@ ou adicionar algo (pode ser a inclusão de um novo requisito).</p>
 
 <b>Implementação</b>
 <p>Com o protótipo validado, o projeto final é desenvolvido.</p>
+
+<hr>
+
+<b>Diagrama do modelo</b>
+<img src=./diagrama_modelo.png>
