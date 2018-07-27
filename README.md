@@ -28,4 +28,4 @@ ou adicionar algo (pode ser a inclusão de um novo requisito).</p>
 <hr>
 
 <b>Diagrama do modelo</b>
-<img src=./diagrama_modelo.png>
+<img src=diagrama_modelo.png>
